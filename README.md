@@ -55,7 +55,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziyous09&theme=redical&hide_border=true" alt="ziyous09's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziyous09&theme=radical&hide_border=true" alt="ziyous09's activity graph" />
 </p>
 
 ## 🤝 Connect with Me
