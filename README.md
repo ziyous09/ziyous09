@@ -10,7 +10,7 @@
 - 🔭 I'm currently working on **exciting projects**
 - 🌱 I'm currently learning **new technologies and frameworks**
 - 💬 Ask me about **development, programming, and tech**
-- 📫 How to reach me: **ziyous09@github.com**
+- 📫 How to reach me: **kunalmaurya4188@gmail.com**
 - ⚡ Fun fact: **I love coding and problem-solving**
 
 ## 🛠️ Tech Stack
